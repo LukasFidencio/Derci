@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(105, 199, 243);
+    margin-bottom: 50px;
+    padding: 18px;
+    text-align: center;
+}
+
+body {
+    text-align: right;
+    color: rgb(5, 5, 5);
+    background-image: url(img/1595125493008.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+
+.quadrado {
+    text-align: center;
+    width: 50px;
+    background: rgb(201, 193, 193);
+    display: inline-block;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    color: rgb(201, 193, 193);
+    border-radius: 30px;
+}
+
+.jogador, .vencedor {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    color: rgb(12, 12, 12);
+
+}
+
+button {
+    color: #eee;
+    width: 100px;
+    height: 40px;
+    background: rgb(105, 199, 243);
+    cursor: pointer;
+    border-radius: 30px;
+}
