@@ -1,2 +1,2 @@
 # Dercy
-Uma omenagem á imortal musa do humor!
+Uma homenagem á imortal musa do humor!
